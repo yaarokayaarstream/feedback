@@ -1,0 +1,6 @@
+{
+  "name": "Full Screen Welcome Display",
+  "description": "An interactive, elegant full-screen Welcome display with custom themes, audio chimes, multilingual greetings, and immersive presentation modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
